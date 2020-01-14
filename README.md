@@ -1,14 +1,12 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+Transition property exercise
+Welcome!
 
+This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-Hi there! Welcome to AWS Cloud9!
+You can check out the website here!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Project Description
+This site was created in order to get familiar with common development tools like Cloud9, Git & GitHub, and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
 
-Happy coding!
+Technology
+This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
